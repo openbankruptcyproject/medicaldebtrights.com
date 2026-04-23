@@ -2,4 +2,5 @@ User-agent: *
 Allow: /
 
 
-Sitemap: https://medicaldebtrights.com/sitemap.xml
+
+Sitemap: https://medicaldebtrights.com/sitemapindex.xml
