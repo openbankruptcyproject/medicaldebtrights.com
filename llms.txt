@@ -1,23 +1,76 @@
-# Medical Debt Rights - Protection & Relief [2026] - Medicaldebtrights
-> Last updated: 2026-05-01
+# Medical Debt Rights - Protection &amp; Relief [2026]
+> Last updated: 2026-09-25
 
-> Know your medical debt rights. New credit reporting rules, charity care, negotiation, and bankruptcy options for medical bills. 2026 g...
+> Know your medical debt rights. New credit reporting rules, charity care, negotiation, and bankruptcy options for medical bills.
 
 ## About
 medicaldebtrights.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Charity Care Requirements for Hospitals - Medicaldebtrights: https://medicaldebtrights.com/charity-care-requirements.html
-- Medical Debt Collection Limits - Medicaldebtrights: https://medicaldebtrights.com/collection-limits.html
-- Medical Debt Credit Reporting Rules - Medicaldebtrights: https://medicaldebtrights.com/credit-reporting-rules.html
-- Disputing Medical Bills - Medicaldebtrights: https://medicaldebtrights.com/dispute-process.html
-- Fair Medical Billing Practices - Medicaldebtrights: https://medicaldebtrights.com/fair-billing.html
+- Hospital Charity Care Requirements [2026]: IRS 501(r) Financial Assistance Policy and FAP Eligibility: https://medicaldebtrights.com/charity-care-requirements.html
+- Medical Debt Collection Limits [2026]: FDCPA 15 USC 1692 Rules and CFPB Regulation F Voicemail Limits: https://medicaldebtrights.com/collection-limits.html
+- Medical Debt Credit Reporting Rules [2026]: NCRA $500 Threshold, 1-Year Wait, and Paid-Debt Removal: https://medicaldebtrights.com/credit-reporting-rules.html
+- How to Dispute a Medical Bill [2026]: Itemized Statement, FCRA Errors, and Hospital Billing Disputes: https://medicaldebtrights.com/dispute-process.html
+- Fair Medical Billing Practices [2026]: HHS Hospital Price Transparency Rule and 501(r) Patient Notice: https://medicaldebtrights.com/fair-billing.html
 - Medical Financial Assistance Programs - Medicaldebtrights: https://medicaldebtrights.com/financial-assistance.html
-- Medical Debt Rights - Protection & Relief [2026] - Medicaldebtrights: https://medicaldebtrights.com/
-- Insurance Appeal Rights for Medical Bills - Medicaldebtrights: https://medicaldebtrights.com/insurance-appeals.html
-- State Medical Debt Protections - Medicaldebtrights: https://medicaldebtrights.com/state-protections.html
-- Surprise Medical Billing Protections - Medicaldebtrights: https://medicaldebtrights.com/surprise-billing.html
+- Medical Debt Rights - Protection &amp; Relief: https://medicaldebtrights.com/
+- Medical Insurance Appeals [2026]: ERISA 29 USC 1133 Internal Process and ACA External Review Rights: https://medicaldebtrights.com/insurance-appeals.html
+- State Medical Debt Protections [2026]: California AB 1020, Maryland HSCRC, NY Hospital Financial Aid Law: https://medicaldebtrights.com/state-protections.html
+- Surprise Medical Billing Protections [2026]: No Surprises Act 42 USC 300gg-111 Out-of-Network Limits: https://medicaldebtrights.com/surprise-billing.html
 - Privacy Policy: https://medicaldebtrights.com/privacy.html
+- About medicaldebtrights.com: https://medicaldebtrights.com/about.html
+- Medical Debt in Alabama: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/alabama.html
+- Medical Debt in Alaska: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/alaska.html
+- Medical Debt in Arizona: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/arizona.html
+- Medical Debt in Arkansas: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/arkansas.html
+- Medical Debt in California: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/california.html
+- Medical Debt in Colorado: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/colorado.html
+- Medical Debt in Connecticut: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/connecticut.html
+- Medical Debt in Delaware: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/delaware.html
+- Medical Debt in the District of Columbia: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/district-of-columbia.html
+- Medical Debt in Florida: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/florida.html
+- Medical Debt in Georgia: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/georgia.html
+- Medical Debt in Hawaii: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/hawaii.html
+- Medical Debt in Idaho: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/idaho.html
+- Medical Debt in Illinois: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/illinois.html
+- Medical Debt Rights by State by State: https://medicaldebtrights.com/states/
+- Medical Debt in Indiana: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/indiana.html
+- Medical Debt in Iowa: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/iowa.html
+- Medical Debt in Kansas: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/kansas.html
+- Medical Debt in Kentucky: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/kentucky.html
+- Medical Debt in Louisiana: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/louisiana.html
+- Medical Debt in Maine: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/maine.html
+- Medical Debt in Maryland: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/maryland.html
+- Medical Debt in Massachusetts: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/massachusetts.html
+- Medical Debt in Michigan: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/michigan.html
+- Medical Debt in Minnesota: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/minnesota.html
+- Medical Debt in Mississippi: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/mississippi.html
+- Medical Debt in Missouri: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/missouri.html
+- Medical Debt in Montana: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/montana.html
+- Medical Debt in Nebraska: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/nebraska.html
+- Medical Debt in Nevada: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/nevada.html
+- Medical Debt in New Hampshire: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/new-hampshire.html
+- Medical Debt in New Jersey: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/new-jersey.html
+- Medical Debt in New Mexico: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/new-mexico.html
+- Medical Debt in New York: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/new-york.html
+- Medical Debt in North Carolina: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/north-carolina.html
+- Medical Debt in North Dakota: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/north-dakota.html
+- Medical Debt in Ohio: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/ohio.html
+- Medical Debt in Oklahoma: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/oklahoma.html
+- Medical Debt in Oregon: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/oregon.html
+- Medical Debt in Pennsylvania: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/pennsylvania.html
+- Medical Debt in Rhode Island: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/rhode-island.html
+- Medical Debt in South Carolina: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/south-carolina.html
+- Medical Debt in South Dakota: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/south-dakota.html
+- Medical Debt in Tennessee: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/tennessee.html
+- Medical Debt in Texas: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/texas.html
+- Medical Debt in Utah: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/utah.html
+- Medical Debt in Vermont: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/vermont.html
+- Medical Debt in Virginia: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/virginia.html
+- Medical Debt in Washington: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/washington.html
+- Medical Debt in West Virginia: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/west-virginia.html
+- Medical Debt in Wisconsin: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/wisconsin.html
+- Medical Debt in Wyoming: Your Rights, Collection Limits, and Hospital Financial Help (2026): https://medicaldebtrights.com/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
